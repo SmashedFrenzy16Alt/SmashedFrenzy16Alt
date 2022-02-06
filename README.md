@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone! 👋
 
 <!--
 **SmashedFrenzy16Alt/SmashedFrenzy16Alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to the alternate GitHub account of SmashedFrenzy16! This account is mostly for minor pieces of code that are under developement or being tested. To see my major, finished projects, visit my [main GitHub profile.](https://github.com/SmashedFrenzy16). Thank you!
