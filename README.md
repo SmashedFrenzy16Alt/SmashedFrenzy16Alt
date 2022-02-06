@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to the alternate GitHub account of SmashedFrenzy16! This account is mostly for minor pieces of code that are under developement or being tested. To see my major, finished projects, visit my [main GitHub profile.](https://github.com/SmashedFrenzy16) Thank you!
+
+You are visitor number:
+
+![Visitor Count](https://profile-counter.glitch.me/SmashedFrenzy16Alt/count.svg)
