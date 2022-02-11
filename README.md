@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![SmashedFrenzy16Alt's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmashedFrenzy16Alt&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
+![SmashedFrenzy16Alt's GiHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16Alt&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
 Welcome to the alternate GitHub account of SmashedFrenzy16! This account is mostly for minor pieces of code that are under developement or being tested. To see my major, finished projects, visit my [main GitHub profile.](https://github.com/SmashedFrenzy16) Thank you!
 
 You are visitor number:
