@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Google+](https://aleen42.github.io/badges/src/google_plus.svg)](https://plus.google.com/+SmashedFrenzy16)
-[![GitHub Followers](https://img.shields.io/github/followers/SmashedFrenzy16?label=Follow&style=social)](https://github.com/SmashedFrenzy16Alt)
+[![GitHub Followers](https://img.shields.io/github/followers/SmashedFrenzy16Alt?label=Follow&style=social)](https://github.com/SmashedFrenzy16Alt)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/SmashedFrenzy16.svg?style=social&label=Follow%20%40SmashedFrenzy16)](https://twitter.com/SmashedFrenzy16)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
 
