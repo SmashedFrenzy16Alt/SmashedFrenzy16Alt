@@ -56,8 +56,6 @@ Welcome to the alternate GitHub account of SmashedFrenzy16! This account is most
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 
 ![SmashedFrenzy16Alt's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16Alt&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
-
-Welcome to the alternate GitHub account of SmashedFrenzy16! This account is mostly for minor pieces of code that are under developement or being tested. To see my major, finished projects, visit my [main GitHub profile.](https://github.com/SmashedFrenzy16) Thank you!
   
 <div align="center">
 
