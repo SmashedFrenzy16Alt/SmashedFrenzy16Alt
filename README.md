@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
 
 <p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=SmashedFrenzy16&show_icons=true&locale=en&theme=tokyonight"                alt="SmashedFrenzy16"/>
-<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=SmashedFrenzy16&theme=tokyonight" alt="SmashedFrenzy16" />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=SmashedFrenzy16Alt&show_icons=true&locale=en&theme=tokyonight"                alt="SmashedFrenzy16Alt"/>
+<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=SmashedFrenzy16Alt&theme=tokyonight" alt="SmashedFrenzy16Alt" />
 <!--<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true"/>-->
   
 ### Languages and Tools That I Use
